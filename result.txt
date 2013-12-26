@@ -1,0 +1,4210 @@
+gain   0   1   -54.0
+gain   1   0   -55.0
+gain   0   2   -60.0
+gain   2   0   -60.0
+gain   1   2   -64.0
+gain   2   1   -64.0
+Creating noise model for  0
+Creating noise model for  1
+Creating noise model for  2
+DEBUG (0): Node 0 Booted.
+DEBUG (1): Node 1 Booted.
+DEBUG (2): Node 2 Booted.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 1.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 1.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 1.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 2.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 2.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 2.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 3.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 3.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 3.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 4.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 4.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 4.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 5.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 5.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 5.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 6.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 6.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 6.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 7.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 7.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 7.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 8.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 8.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 8.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 9.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 9.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 9.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 10.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 10.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 10.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 11.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 11.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 11.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 12.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 12.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 12.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 13.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 13.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 13.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 14.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 14.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 14.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 15.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 15.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 15.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 16.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 16.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 16.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 17.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 17.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 17.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 18.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 18.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 18.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 19.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 19.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 19.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 20.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 20.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 20.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 21.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 21.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 21.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 22.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 22.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 22.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 23.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 23.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 23.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 24.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 24.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 24.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 25.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 25.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 25.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 26.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 26.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 26.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 27.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 27.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 27.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 28.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 28.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 28.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 29.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 29.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 29.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 30.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 30.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 30.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 31.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 31.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 31.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 32.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 32.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 32.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 33.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 33.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 33.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 34.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 34.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 34.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 35.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 35.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 35.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 36.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 36.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 36.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 37.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 37.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 37.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 38.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 38.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 38.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 39.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 39.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 39.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 40.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 40.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 40.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 41.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 41.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 41.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 42.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 42.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 42.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 43.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 43.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 43.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 44.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 44.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 44.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 45.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 45.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 45.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 46.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 46.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 46.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 47.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 47.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 47.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 48.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 48.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 48.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 49.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 49.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 49.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 50.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 50.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 50.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 51.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 51.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 51.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 52.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 52.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 52.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 53.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 53.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 53.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 54.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 54.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 54.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 55.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 55.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 55.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 56.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 56.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 56.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 57.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 57.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 57.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 58.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 58.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 58.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 59.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 59.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 59.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 60.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 60.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 60.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 61.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 61.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 61.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 62.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 62.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 62.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 63.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 63.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 63.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 64.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 64.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 64.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 65.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 65.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 65.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 66.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 66.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 66.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 67.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 67.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 67.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 68.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 68.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 68.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 69.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 69.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 69.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 70.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 70.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 70.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 71.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 71.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 71.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 72.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 72.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 72.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 73.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 73.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 73.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 74.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 74.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 74.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 75.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 75.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 75.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 76.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 76.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 76.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 77.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 77.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 77.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 78.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 78.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 78.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 79.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 79.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 79.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 80.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 80.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 80.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 81.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 81.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 81.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 82.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 82.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 82.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 83.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 83.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 83.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 84.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 84.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 84.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 85.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 85.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 85.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 86.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 86.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 86.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 87.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 87.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 87.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 88.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 88.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 88.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 89.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 89.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 89.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 90.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 90.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 90.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 91.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 91.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 91.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 92.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 92.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 92.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 93.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 93.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 93.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 94.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 94.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 94.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 95.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 95.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 95.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 96.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 96.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 96.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 97.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 97.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 97.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 98.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 98.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 98.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 99.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 99.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 99.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 100.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 100.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 100.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 101.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 101.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 101.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 102.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 102.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 102.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 103.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 103.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 103.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 104.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 104.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 104.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 105.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 105.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 105.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 106.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 106.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 106.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 107.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 107.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 107.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 108.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 108.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 108.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 109.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 109.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 109.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 110.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 110.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 110.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 111.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 111.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 111.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 112.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 112.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 112.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 113.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 113.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 113.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 114.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 114.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 114.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 115.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 115.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 115.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 116.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 116.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 116.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 117.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 117.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 117.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 118.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 118.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 118.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 119.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 119.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 119.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 120.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 120.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 120.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 121.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 121.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 121.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 122.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 122.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 122.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 123.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 123.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 123.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 124.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 124.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 124.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 125.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 125.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 125.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 126.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 126.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 126.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 127.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 127.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 127.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 128.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 128.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 128.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 129.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 129.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 129.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 130.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 130.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 130.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 131.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 131.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 131.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 132.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 132.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 132.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 133.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 133.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 133.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 134.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 134.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 134.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 135.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 135.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 135.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 136.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 136.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 136.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 137.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 137.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 137.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 138.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 138.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 138.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 139.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 139.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 139.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 off.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 off.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 140.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 140.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 140.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 141.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 141.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 off.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 141.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 off.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 off.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 142.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 142.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 off.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 142.
+DEBUG (2): RadioCountToLedsC: packet sent.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 off.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 off.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (0): RadioCountToLedsC: timer fired, counter is 143.
+DEBUG (0): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (1): Received packet of length 2.
+DEBUG (1): LEDS: Led0 on.
+DEBUG (1): LEDS: Led1 on.
+DEBUG (1): LEDS: Led2 on.
+DEBUG (1): RadioCountToLedsC: timer fired, counter is 143.
+DEBUG (1): RadioCountToLedsC: packet sent.
+DEBUG (2): Received packet of length 2.
+DEBUG (2): LEDS: Led0 on.
+DEBUG (2): LEDS: Led1 on.
+DEBUG (2): LEDS: Led2 on.
+DEBUG (0): Received packet of length 2.
+DEBUG (0): LEDS: Led0 on.
+DEBUG (0): LEDS: Led1 on.
+DEBUG (0): LEDS: Led2 on.
+DEBUG (2): RadioCountToLedsC: timer fired, counter is 143.
+DEBUG (2): RadioCountToLedsC: packet sent.
